@@ -31,10 +31,10 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
 
 ## 🌍 Connect With Me
 
-- 🌐 [Portfolio Website](https://geryguedegbe.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/geryguedegbe)  
-- 🎯 [Frontend Mentor](https://www.frontendmentor.io/profile/geryguedegbe)  
-- 📧 geryguedegbe@gmail.com  
+- 🌐 <a href="https://geryguedegbe.com" target="_blank">Portfolio Website</a>  
+- 💼 <a href="https://www.linkedin.com/in/geryguedegbe" target="_blank">LinkedIn</a>  
+- 🎯 <a href="https://www.frontendmentor.io/profile/gery-guedegbe" target="_blank">Frontend Mentor</a>  
+- 📧 geryguedegbe@gmail.com
 
 ---
 
