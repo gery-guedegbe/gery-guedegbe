@@ -14,7 +14,7 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div style="width: 100%" align="center">
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 1rem;">
 
