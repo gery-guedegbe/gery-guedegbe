@@ -14,7 +14,7 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
 
 ## 🛠 Tech Stack
 
-<table width="100">
+<table>
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/><br/>
