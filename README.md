@@ -14,14 +14,13 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
-<table>
+<table width="100">
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/><br/>
       <sub><b>HTML5</b></sub>
     </td>
+    
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3"/><br/>
       <sub><b>CSS3</b></sub>
@@ -30,6 +29,7 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"/><br/>
       <sub><b>JavaScript</b></sub>
     </td>
+    
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"/><br/>
       <sub><b>TypeScript</b></sub>
