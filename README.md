@@ -1,11 +1,10 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi%2C+I'm+Gery+Guedegbe+%F0%9F%91%8B;Frontend+Developer+%7C+React+%2B+Tailwind+%2B+TypeScript;I+build+modern%2C+smooth+and+responsive+web+interfaces" alt="Typing SVG" />
+# 👋 Hi, I'm Gery Guedegbe
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a frontend developer based in Benin 🇧🇯 with a strong focus on creating modern, responsive, and animated web interfaces.
+I'm a frontend developer with a strong focus on creating modern, responsive, and animated web interfaces.
 
 I build user-friendly applications using **React**, **TypeScript**, and **Tailwind CSS**, and I love adding life to my projects through smooth animations with **Framer Motion**.
 
@@ -15,15 +14,65 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
 
 ## 🛠 Tech Stack
 
-<img align="left" width="22" src="https://cdn.simpleicons.org/html5/E34F26" /> HTML5  
-<img align="left" width="22" src="https://cdn.simpleicons.org/css3/1572B6" /> CSS3 / Tailwind CSS  
-<img align="left" width="22" src="https://cdn.simpleicons.org/javascript/F7DF1E" /> JavaScript (ES6+)  
-<img align="left" width="22" src="https://cdn.simpleicons.org/typescript/3178C6" /> TypeScript  
-<img align="left" width="22" src="https://cdn.simpleicons.org/react/61DAFB" /> React.js  
-<img align="left" width="22" src="https://cdn.simpleicons.org/framer/0055FF" /> Framer Motion  
-<img align="left" width="22" src="https://cdn.simpleicons.org/node.js/339933" /> Node.js / Express.js  
-<img align="left" width="22" src="https://cdn.simpleicons.org/firebase/FFCA28" /> Firebase  
-<img align="left" width="22" src="https://cdn.simpleicons.org/postgresql/4169E1" /> PostgreSQL  
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"/><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="Tailwind"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/framer/0055FF" width="40" alt="Framer Motion"/><br/>
+      <sub><b>Framer Motion</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/node.js/339933" width="40" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/express/000000" width="40" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" alt="Firebase"/><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+ 
 
 <br><br>
 
