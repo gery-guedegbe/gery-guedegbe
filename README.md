@@ -16,7 +16,7 @@ My goal is to turn ideas into clean, interactive, and well-structured digital ex
 
 <div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 1rem; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 1rem;">
 
   <div>
     <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/><br/>
